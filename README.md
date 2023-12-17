@@ -19,9 +19,6 @@ pip install spotipy
     
 ## API Reference
 
-
-
-
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `token_telegram` | `string` | **Required**. Your telegram token | `api_key_weather` | `string` | **Required**. Your API key 
@@ -30,6 +27,9 @@ pip install spotipy
 | `client_secret_spotify` | `string` | **Required**. Your client secret 
 | `Wiki_project` | `string` | **Required**. Name of project
 
+## Screenshots / Video
+
+![App Screenshot](picture/pic1.gif)
 
 ## Usage/Examples
 
@@ -96,9 +96,6 @@ def my_youtube(prompt):
         video.append(video_url)
     return video
 ```
-## Screenshots
 
-![App Screenshot](picture/pic1.png)
 
-![App Screenshot](picture/pic2.png)
 
