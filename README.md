@@ -29,7 +29,7 @@ pip install spotipy
 
 ## Screenshots / Video
 
-![App Screenshot](picture/pic1.gif)
+![App Screenshot](picture/Telegram bot.gif)
 
 ## Usage/Examples
 
